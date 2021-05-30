@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 31da6f8e8b0cf394d95143d726af1ee7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5038393065952720449
+    second: Dialogue1
+  - first:
+      213: -3433031344315689024
+    second: ui atlas_1
+  - first:
+      213: 2375990996805325438
+    second: ui atlas_2
+  - first:
+      213: -7583093683844475843
+    second: ui atlas_3
+  - first:
+      213: 1898323470269135912
+    second: ui atlas_4
+  - first:
+      213: 2752117450504776690
+    second: ui atlas_5
+  - first:
+      213: -7105536563293864786
+    second: JoyStick Bg & Fg
+  - first:
+      213: -962937272680067203
+    second: ui atlas_7
+  - first:
+      213: -2208231475922098347
+    second: Sprint
+  - first:
+      213: 6377933722430442136
+    second: Crouch
+  - first:
+      213: 693126740613572062
+    second: Jump
+  - first:
+      213: 1209909158780437614
+    second: Enemy Icon
+  - first:
+      213: -4806542591375019496
+    second: ui atlas_12
+  - first:
+      213: -8887467850008223407
+    second: ui atlas_13
+  - first:
+      213: 5548222703932579545
+    second: ui atlas_14
+  - first:
+      213: -752201726153698497
+    second: Reload
+  - first:
+      213: 3936662871649568436
+    second: ui atlas_16
+  - first:
+      213: -9179867253785100325
+    second: ui atlas_17
+  - first:
+      213: -1100490107490735071
+    second: ui atlas_18
+  - first:
+      213: 162713896930830959
+    second: ui atlas_19
+  - first:
+      213: 6223169405696597202
+    second: ui atlas_20
+  - first:
+      213: -7783800542391435396
+    second: ui atlas_21
+  - first:
+      213: 446620857251533987
+    second: ui atlas_22
+  - first:
+      213: 486799632410420863
+    second: ui atlas_23
+  - first:
+      213: 3546603821001784727
+    second: ui atlas_24
+  - first:
+      213: 3189473793223791050
+    second: ui atlas_25
+  - first:
+      213: -4153102628256024044
+    second: ui atlas_26
+  - first:
+      213: -1507218292422423505
+    second: ui atlas_27
+  - first:
+      213: 448493913113958312
+    second: Fire
+  - first:
+      213: 7395336293553263443
+    second: ui atlas_29
+  - first:
+      213: 1450150727279747471
+    second: ui atlas_30
+  - first:
+      213: 5520175021490380228
+    second: ui atlas_31
+  - first:
+      213: -9060179193581696389
+    second: ui atlas_32
+  - first:
+      213: -913685107468054225
+    second: ui atlas_33
+  - first:
+      213: 8393349508979795528
+    second: Zoom
+  - first:
+      213: -3402093964110179642
+    second: Health Icon
+  - first:
+      213: -6289208286497849646
+    second: ui atlas_36
+  - first:
+      213: -3809023696387504765
+    second: ui atlas_37
+  - first:
+      213: -4699645864782576034
+    second: ui atlas_38
+  - first:
+      213: 2089415947524580401
+    second: ui atlas_39
+  - first:
+      213: 1319372101061324202
+    second: ui atlas_40
+  - first:
+      213: 7464037159333980497
+    second: Use
+  - first:
+      213: 7044216248427017914
+    second: Gameplay Circle for icons
+  - first:
+      213: -2403869812972854462
+    second: Coin Bar1
+  - first:
+      213: -1255900623466030902
+    second: ui atlas_44
+  - first:
+      213: -280346143305681891
+    second: General Button
+  - first:
+      213: -4153263653181130360
+    second: ui atlas_46
+  - first:
+      213: 4815435123301780074
+    second: Timer
+  - first:
+      213: 7037557584818896379
+    second: ui atlas_48
+  - first:
+      213: 6109173060563401207
+    second: Facebook
+  - first:
+      213: 8378818669456757944
+    second: ui atlas_50
+  - first:
+      213: -4499748188949323193
+    second: ui atlas_51
+  - first:
+      213: 2467341925035564466
+    second: Pause
+  - first:
+      213: -7901397918358581022
+    second: ui atlas_53
+  - first:
+      213: 2043010595757362451
+    second: Rate us
+  - first:
+      213: -2636915838034754982
+    second: Home
+  - first:
+      213: 1330516558936057791
+    second: ui atlas_56
+  - first:
+      213: 3613945716460412353
+    second: ui atlas_57
+  - first:
+      213: -4643433118110674344
+    second: Sound On
+  - first:
+      213: -5538303285377526015
+    second: ui atlas_59
+  - first:
+      213: 1672764217919458624
+    second: ui atlas_60
+  - first:
+      213: -984588383229348981
+    second: Camera
+  - first:
+      213: 3271399032609263570
+    second: ui atlas_62
+  - first:
+      213: -7005225094034081724
+    second: ui atlas_63
+  - first:
+      213: -6328482456274502047
+    second: ui atlas_64
+  - first:
+      213: 2840008093504523118
+    second: Restart
+  - first:
+      213: -1511850272448836641
+    second: Sound Off
+  - first:
+      213: -5032598345524007307
+    second: ui atlas_67
+  - first:
+      213: 1147729060576115653
+    second: ui atlas_68
+  - first:
+      213: 1621748002651770597
+    second: Remove ads
+  - first:
+      213: -9208193281651543153
+    second: Coin bar 2
+  - first:
+      213: -1515276495936609922
+    second: ui atlas_71
+  - first:
+      213: 3245012645324271502
+    second: Resume
+  - first:
+      213: 2988605165776879510
+    second: Settings
+  - first:
+      213: 5167341306544473643
+    second: Restore Purchases
+  - first:
+      213: -1839745438646435089
+    second: Level Selection Btn
+  - first:
+      213: 5497226577896386156
+    second: Level Lock
+  - first:
+      213: 4582903749496423892
+    second: ui atlas_77
+  - first:
+      213: -3818494354022628128
+    second: Dialogue2
+  - first:
+      213: -2479111874494146047
+    second: ui atlas_79
+  - first:
+      213: 8338411734133339582
+    second: ui atlas_80
+  - first:
+      213: 1894797992709629882
+    second: ui atlas_81
+  - first:
+      213: 389854456976539487
+    second: Light Off
+  - first:
+      213: -8085033919316316240
+    second: Steering
+  - first:
+      213: -6250616222822565923
+    second: Gp Left
+  - first:
+      213: -2454423552655693237
+    second: ui atlas_85
+  - first:
+      213: 7458868760123466841
+    second: ui atlas_86
+  - first:
+      213: -584026918065676373
+    second: GP Right
+  - first:
+      213: -4409382750943179007
+    second: Dialogue3
+  - first:
+      213: -1374007334443513292
+    second: Light On
+  - first:
+      213: -3228276597190248036
+    second: ui atlas_90
+  - first:
+      213: -3391533556469243050
+    second: ui atlas_91
+  - first:
+      213: -2014326662812082502
+    second: ui atlas_92
+  - first:
+      213: 4280186694614595723
+    second: ui atlas_93
+  - first:
+      213: -4794449739253653216
+    second: Simple Btn 1
+  - first:
+      213: -7279680751459581921
+    second: ui atlas_95
+  - first:
+      213: 4921576650020423020
+    second: Race
+  - first:
+      213: -5906530142334302657
+    second: Brake
+  - first:
+      213: 6344999136795431867
+    second: ui atlas_98
+  - first:
+      213: -7242210358481705039
+    second: ui atlas_99
+  - first:
+      213: 6328261424790903469
+    second: ui atlas_100
+  - first:
+      213: 8030966816056398377
+    second: Simple Btn 2
+  - first:
+      213: 4372104158078955154
+    second: ui atlas_102
+  - first:
+      213: -2602228352325883496
+    second: NOS
+  - first:
+      213: 6604723845153795305
+    second: Dollar Sign
+  - first:
+      213: 4188859633887409805
+    second: Tilt
+  - first:
+      213: -2297437686697648626
+    second: Loading
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialogue1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1690
+        width: 545
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e6432392f15824cb6d9bd63adf0ef9
+      internalID: 5038393065952720449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1970
+        width: 251
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defacaea42922d84f8eb412ca3461b9a
+      internalID: -3433031344315689024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1969
+        width: 148
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8124f315af334dbcde11f3acc554c
+      internalID: 2375990996805325438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1944
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce615a2d00d02ac48b7abc1262a2342d
+      internalID: -7583093683844475843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1867
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ae193cb8101f468ab3843e8d28a62
+      internalID: 1898323470269135912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1867
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8d729c9065b64986dc4549a7b60d1
+      internalID: 2752117450504776690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoyStick Bg & Fg
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1825
+        width: 192
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc571e7ffa3ae4cada57f8887d98db
+      internalID: -7105536563293864786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1975
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdae94d7624169438d7b397f9724f25
+      internalID: -962937272680067203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprint
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1937
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be5dbe90d4cba43b85dcee62cf0431
+      internalID: -2208231475922098347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1930
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d04d9abdb38b745b000d744f4c1125
+      internalID: 6377933722430442136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1923
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d3be56bc00cc948973a66661252b22
+      internalID: 693126740613572062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Icon
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1935
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db21270aba7c142b96ee3f1f8f2dbe
+      internalID: 1209909158780437614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1952
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7faed81d0e334fb82824b35ab6160
+      internalID: -4806542591375019496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1968
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8e932429216d4296fb7b3f2706331
+      internalID: -8887467850008223407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1694
+        width: 496
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24be48f9cf2324396a3075b91bd80c
+      internalID: 5548222703932579545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reload
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1867
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410804e1a4c7e1647aabc13c79df57e6
+      internalID: -752201726153698497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1956
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b33ab819834864894381c1fa12c86e
+      internalID: 3936662871649568436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1960
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7599563e7fcfd447820a6ab37abb830
+      internalID: -9179867253785100325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1937
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a7f4f85ca210c4caebb46c3dd8a1d0
+      internalID: -1100490107490735071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_19
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1910
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a755233095823ba40b3e32c6d2735a08
+      internalID: 162713896930830959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1918
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f97dc9a627ce48978bd6ba3f5986e
+      internalID: 6223169405696597202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1865
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64556902fdc89e349b73429921801d73
+      internalID: -7783800542391435396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1948
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f181238f98944c835cfb97c729614
+      internalID: 446620857251533987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1943
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56323a15fb033f146906deac2440b919
+      internalID: 486799632410420863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1920
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41aea5f2569f2468fc38f4abaeaa92
+      internalID: 3546603821001784727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_25
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1872
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ccbeb924a0d242ac2af4ee476ff9f
+      internalID: 3189473793223791050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1902
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f354f860e07d49a9d59248264f43b
+      internalID: -4153102628256024044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1903
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cdcb2747bfe9d42b7c3fcb19f40a4b
+      internalID: -1507218292422423505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1745
+        width: 170
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad77403329e39d4a8c9a09932952ff3
+      internalID: 448493913113958312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1896
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fceb61f30d054688b6ec9ba205a94
+      internalID: 7395336293553263443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1887
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e00a0257006df645af0c4d8e27424cf
+      internalID: 1450150727279747471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1891
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9f5b6722c7924fa3bd922d9847c6e
+      internalID: 5520175021490380228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1882
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6df5054b3627b4e94542a45b68e821
+      internalID: -9060179193581696389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1879
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4101cdaf4b054eb4bdde7e8ecdddc
+      internalID: -913685107468054225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoom
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1736
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648946d60d3b274eadc8c733ca9842f
+      internalID: 8393349508979795528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Icon
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1815
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46b0f99594cf446a1d2d99aca608f4
+      internalID: -3402093964110179642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1878
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c6dbdf31c92f43a00eb2676a1a59f
+      internalID: -6289208286497849646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1875
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f5db3100bccd4e9ca0e3950d8b109
+      internalID: -3809023696387504765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1876
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d936910a03788459292643cda9f425
+      internalID: -4699645864782576034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1870
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5339899a69fa40b1fbeb57766149b
+      internalID: 2089415947524580401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1870
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98b0724328cfa488ebf2037ba7d030
+      internalID: 1319372101061324202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1745
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490bd6237efa31489b1d7820d9585c1
+      internalID: 7464037159333980497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay Circle for icons
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1525
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe36247e154a34ca003496b0d78ed4
+      internalID: 7044216248427017914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Bar1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1550
+        width: 322
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2e98c6e4b20c41b0c8ef0bb07e8ca
+      internalID: -2403869812972854462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1644
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f9b8acd9e97d448994777074bc954
+      internalID: -1255900623466030902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Button
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1475
+        width: 198
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428d487de6b4cf40a036085e91c62cb
+      internalID: -280346143305681891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1465
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00b8ca187fa1a41ab1d2a1e28c79b9
+      internalID: -4153263653181130360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1392
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a691612b80984c86f74f56877084a
+      internalID: 4815435123301780074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1465
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d75663ea6ae24383627b254cd944f
+      internalID: 7037557584818896379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Facebook
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1398
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d92bc4749febc4593c02d3d30d3050
+      internalID: 6109173060563401207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1479
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e6843c803fb4147bab0e2db5651d36
+      internalID: 8378818669456757944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1403
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcebe4eec321254fb3397140ace319c
+      internalID: -4499748188949323193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1401
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b84e04549e1eb45b621090d70e5612
+      internalID: 2467341925035564466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1274
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe79e313ee86041bddc79d36bedf15
+      internalID: -7901397918358581022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rate us
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1267
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984f57bfa5065f4abf092c1ce080a7d
+      internalID: 2043010595757362451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1267
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248413398b76b1844bcf53b337c998d6
+      internalID: -2636915838034754982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1197
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7716414591a961419a0747b3d146ff0
+      internalID: 1330516558936057791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1197
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dade2203adc5045b6af7687b3eca1d
+      internalID: 3613945716460412353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound On
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1118
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2ea5107f56e344b59855e96f83b36
+      internalID: -4643433118110674344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1135
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1212fbc217214194369e921d8d0a0
+      internalID: -5538303285377526015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1124
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a92ea21a2e2a4994b2906e5a1ba6a
+      internalID: 1672764217919458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1137
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90adf38ab7fec8743b946c737303f0a4
+      internalID: -984588383229348981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1151
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046de83ae0f165c49af72819e6bdc7cb
+      internalID: 3271399032609263570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1138
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308d65e96a65a54b9095e8c9016313c
+      internalID: -7005225094034081724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1148
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd95d67f8db0c49a38dfe8f2aab851
+      internalID: -6328482456274502047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 993
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f730d18a1c16d4ea9019c795c691d4
+      internalID: 2840008093504523118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound Off
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1003
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1452dd9f82479714c9faf648d240526c
+      internalID: -1511850272448836641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1005
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685aaeda838bf97428df5ee99b9466a6
+      internalID: -5032598345524007307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1022
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20fd83043d779d4680e04185f1d7342
+      internalID: 1147729060576115653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remove ads
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 830
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f36ddeca3e0f4449ad291e45b53e49
+      internalID: 1621748002651770597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin bar 2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 913
+        width: 266
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ebd4af1df0cb4b9732196a2e7691a
+      internalID: -9208193281651543153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 698
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a46e47bb159746a92d872bec59fd7
+      internalID: -1515276495936609922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resume
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 691
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89dc841c3697144b7b9a6c22320826
+      internalID: 3245012645324271502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 758
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23522a8a1eb1d8479c930ad83753426
+      internalID: 2988605165776879510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restore Purchases
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 548
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300818c684f8b934b8d212d9c2967101
+      internalID: 5167341306544473643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Selection Btn
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 453
+        width: 171
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0218f2f7b030b240bc5d678a3d90b32
+      internalID: -1839745438646435089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Lock
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 388
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a4f0f85bdd7f468f41b0c71f6bc62
+      internalID: 5497226577896386156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_77
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 459
+        width: 171
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088138c7cdbb2c049b1d36080d98d745
+      internalID: 4582903749496423892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 21
+        width: 496
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08eaa52639a3c44fbac15485c7681ee
+      internalID: -3818494354022628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_79
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 298
+        width: 337
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46108811885e224da61bf0da1f217c0
+      internalID: -2479111874494146047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 296
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e7aaab81ce6b847b05d128c46f011f
+      internalID: 8338411734133339582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 297
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79690619507ec0341bfd90ff517a33e1
+      internalID: 1894797992709629882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Off
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 272
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b526511313cb5a478039c09e9b896de
+      internalID: 389854456976539487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steering
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 234
+        width: 232
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7512a65105b74a96bdf1673148adc
+      internalID: -8085033919316316240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gp Left
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 219
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2371eef3be004b8c6715a6df3574d
+      internalID: -6250616222822565923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b782bfc30cb61c4ca32a9c5cb9b3469
+      internalID: -2454423552655693237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 220
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e54b46899c0274a88f489a6601a200
+      internalID: 7458868760123466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GP Right
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 219
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f9cafe33e93844bfd2c59ca0138a2
+      internalID: -584026918065676373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 21
+        width: 496
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5968497468d2429e40578f2db8ffb
+      internalID: -4409382750943179007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light On
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 219
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2bcae61df7144a823379d10089332
+      internalID: -1374007334443513292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 252
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233bef2d5b3a751458cf25cac52be976
+      internalID: -3228276597190248036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 241
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ed0539d4378049b072a1b27f066e0
+      internalID: -3391533556469243050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 230
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e383fb1d4a8f8af44b445bb474c0f9c7
+      internalID: -2014326662812082502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 219
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4c4c0b30cb664ab01b63747db7131
+      internalID: 4280186694614595723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Btn 1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 110
+        width: 307
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64036d7b185711241bf7e03e72cb9a79
+      internalID: -4794449739253653216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 175
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081e4e11cd7a6e4aaf27fcb088e6854
+      internalID: -7279680751459581921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 12
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c2093abb61664289775afe3f6b32d
+      internalID: 4921576650020423020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brake
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 20
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239e3335005027f4abbf7fb1643c5480
+      internalID: -5906530142334302657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_98
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82354d63caab72346addecd3ecc7c618
+      internalID: 6344999136795431867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 150
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831597d93153e6549a6454972dcffcf1
+      internalID: -7242210358481705039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 157
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b506c518aee23e4fbcfbf383b5330e4
+      internalID: 6328261424790903469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Btn 2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 279
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfadb3b64a1c94041b5349756ae69097
+      internalID: 8030966816056398377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 47
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62263c62cde03394ea378dac5c5e43d9
+      internalID: 4372104158078955154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOS
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 45
+        width: 93
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f67b612d0d10418121a0aeb22a720
+      internalID: -2602228352325883496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dollar Sign
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1301
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c880016e6cf04582c0b12b3c342f9
+      internalID: 6604723845153795305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilt
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 689
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402695cbf3ba1e6419bc6d3baf335981
+      internalID: 4188859633887409805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 483
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4b2de7b0d1484da1a3942664fc076
+      internalID: -2297437686697648626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d8bfa0a6b587d545b9ff2a39a93b681
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
